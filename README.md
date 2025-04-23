@@ -1,4 +1,4 @@
-# Databank
+# project title : Databank
 ## project description
 This SQL project analyzes Data Bank, a digital banking platform, focusing on customer transactions, node allocations, and balance trends. The goal is to derive insights into customer behavior, regional node distribution, and financial patterns to optimize operations and improve customer experience.
 
